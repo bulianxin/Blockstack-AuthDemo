@@ -16,9 +16,13 @@
 
 - 系统随机奖励，平台不收费用。
 
-## 流程图
+## 系统流程
 
-![FlowChart](zaoqidaka.png)
+![AppFlowChart](zaoqidaka.png)
+
+## 存储流程
+
+![StorageFlowChart](storage.png)
 
 ## RoadMap
 
